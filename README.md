@@ -29,7 +29,7 @@ Tracks sales growth over time and identifies trends or fluctuations.
 5. Combo Chart (Sales vs Profit by Year)
    
 Combines bar and line chart to compare two important metrics:
-Sales (volume)
+Sales (volume)    
 Profit (performance)
 6. Gauge Chart (Sales vs Target)
    
