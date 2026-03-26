@@ -1,11 +1,11 @@
-Car Sales Dashboard (Power BI)
+                                     Car Sales Dashboard (Power BI)
 Project Overview
 
 This project is an interactive Power BI dashboard designed to analyze car sales data and generate meaningful business insights. It helps in understanding sales performance, profit trends, customer distribution, and product-level contributions using visually rich and intuitive charts.
 
 Key Metrics (KPIs)
 
-The dashboard highlights important business indicators:
+                                The dashboard highlights important business indicators:
 
 Total Sales
 Total Revenue
@@ -57,7 +57,7 @@ Displays exact numerical values for detailed inspection and validation.
 
 
 
-Files Included:
+                                                                Files Included:
 1. pbix file (Power BI Dashboard)
 2. Screenshots of Dashboard
 3. Dataset in excel format
